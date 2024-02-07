@@ -1,0 +1,4 @@
+//npm init ----package.json
+//npm install typescript --save-dev
+//npm tsc --init --rootDir src --outDir build
+//npm tsc --watch
